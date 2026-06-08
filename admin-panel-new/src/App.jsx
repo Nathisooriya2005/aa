@@ -177,19 +177,6 @@ function Login() {
           </button>
         </form>
         
-        <div style={{ 
-          textAlign: 'center', 
-          marginTop: '25px', 
-          padding: '15px',
-          backgroundColor: '#f8f9fa',
-          borderRadius: '10px',
-          fontSize: '13px',
-          color: '#666'
-        }}>
-          <strong>Default Credentials:</strong><br />
-          Username: sports pitch<br />
-          Password: sportspitch@dreamturf
-        </div>
       </div>
     </div>
   );
